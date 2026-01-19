@@ -1,2 +1,3 @@
 <Solution>
+  <Project Path="src/TransactionReceiptsService.API/TransactionReceiptsService.API.csproj" />
 </Solution>
