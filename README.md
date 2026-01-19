@@ -1,2 +1,2 @@
-# Transaction Receipts API
-A RESTful API for generating transaction receipts for a fictional fintech.
+# Transaction Service
+A RESTful API for managing transactions for a fictional fintech.
